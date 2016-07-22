@@ -1,0 +1,56 @@
+#verde {
+    width: 900px;
+    height: 515px;
+    background-color: #8CB27C
+}
+
+.linea {
+    margin: 20px 20px 20px 20px;
+    display: inline-block;
+    height: 470px;
+    width: 850px;
+    border: solid 1px;
+    border-color: white;
+}
+
+.porteria1 {
+    width: 100px;
+    height: 160px;
+    border: solid 1px;
+    border-color: white;
+    bottom: 400px;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.porteria2 {
+    left: 777px;
+}
+
+.centro {
+    width: 140px;
+    height: 160px;
+    border: solid 1px;
+    border-color: white;
+    bottom: 400px;
+    left: 370px;
+    border-radius: 80%;
+}
+
+.bola1 {
+    top: 90px;
+    right: 800px;
+}
+
+.bola2 {
+    top: 345px;
+    left: 750px;
+}
+
+.bola3 {
+    top: 228px;
+    left: 120px;
+
+}
