@@ -30,7 +30,7 @@
 }
 
 .centro {
-    width: 140px;
+    width: 160px;
     height: 160px;
     border: solid 1px;
     border-color: white;
@@ -41,7 +41,7 @@
 
 .bola1 {
     top: 90px;
-    right: 800px;
+    right: 940px;
 }
 
 .bola2 {
